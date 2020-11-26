@@ -36,4 +36,4 @@ The files are devided into the following sections. These sections are then sub-d
 3. Software
 3.1 Configuration
 3.2 Printer Profiles
-
+3.3
